@@ -1,5 +1,5 @@
 package 'vim-enhanced'
-package 'emacs'
+package 'httpd'
 package 'nano'
 
 package 'tree' do
